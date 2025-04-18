@@ -1,0 +1,7 @@
+.boton-agregar {
+    position: absolute;
+    /* pegalo a la derecha */
+    top: 10px;
+    right: 20px;
+    
+  }
