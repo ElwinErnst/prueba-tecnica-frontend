@@ -31,7 +31,7 @@ Este proyecto es una aplicación frontend desarrollada en Angular que consume un
 
 La URL base de la API se configura en el archivo de entorno de Angular.
 
-1. Abre el archivo:
+1. Abre el archivo (si no existe puedes crearlo):
    ```
    src/environment.ts
    ```
