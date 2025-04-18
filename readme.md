@@ -16,7 +16,7 @@ Este proyecto es una aplicación frontend desarrollada en Angular que consume un
 
 1. **Clona el repositorio:**
    ```sh
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/ElwinErnst/prueba-tecnica-frontend.git
    cd Frontend
    ```
 
